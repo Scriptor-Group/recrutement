@@ -1,7 +1,7 @@
 ## Système de Gestion de Tâches Collaboratif avec Temps Réel et GraphQL
 
 ### Objectif:
-Développer une application web de gestion de tâches collaboratif qui permet aux utilisateurs de créer, assigner, suivre, et mettre à jour des tâches en temps réel. L'application doit utiliser React pour le frontend, Node.js pour le backend, et intégrer GraphQL pour la communication entre les deux.
+Développer une application web de gestion de tâches collaboratif qui permet aux utilisateurs de créer, assigner, suivre, et mettre à jour des tâches en temps réel. L'application doit utiliser React pour le frontend, Node.js pour le backend, et intégrer GraphQL pour la communication entre les deux, utilisant idéalement Prisma pour la gestion base de données (PGSQL).
 
 ### Fonctionnalités Clés:
 
